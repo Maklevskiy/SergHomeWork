@@ -1,0 +1,7 @@
+C:\Users\pserg\Desktop\CeasarCipher-master\Ceasar.Tests\obj\Debug\Ceasar.Tests.csprojResolveAssemblyReference.cache
+C:\Users\pserg\Desktop\CeasarCipher-master\Ceasar.Tests\bin\Debug\Ceasar.Tests.dll
+C:\Users\pserg\Desktop\CeasarCipher-master\Ceasar.Tests\bin\Debug\Ceasar.Tests.pdb
+C:\Users\pserg\Desktop\CeasarCipher-master\Ceasar.Tests\bin\Debug\nunit.framework.dll
+C:\Users\pserg\Desktop\CeasarCipher-master\Ceasar.Tests\bin\Debug\nunit.framework.xml
+C:\Users\pserg\Desktop\CeasarCipher-master\Ceasar.Tests\obj\Debug\Ceasar.Tests.dll
+C:\Users\pserg\Desktop\CeasarCipher-master\Ceasar.Tests\obj\Debug\Ceasar.Tests.pdb

@@ -1,0 +1,10 @@
+C:\Users\pserg\Desktop\CeasarCipher-master\MyKod\bin\Debug\MyKod.exe.config
+C:\Users\pserg\Desktop\CeasarCipher-master\MyKod\bin\Debug\MyKod.exe
+C:\Users\pserg\Desktop\CeasarCipher-master\MyKod\bin\Debug\MyKod.pdb
+C:\Users\pserg\Desktop\CeasarCipher-master\MyKod\bin\Debug\Ceasar.Tests.dll
+C:\Users\pserg\Desktop\CeasarCipher-master\MyKod\bin\Debug\nunit.framework.dll
+C:\Users\pserg\Desktop\CeasarCipher-master\MyKod\bin\Debug\Ceasar.Tests.pdb
+C:\Users\pserg\Desktop\CeasarCipher-master\MyKod\bin\Debug\nunit.framework.xml
+C:\Users\pserg\Desktop\CeasarCipher-master\MyKod\obj\Debug\MyKod.csprojResolveAssemblyReference.cache
+C:\Users\pserg\Desktop\CeasarCipher-master\MyKod\obj\Debug\MyKod.exe
+C:\Users\pserg\Desktop\CeasarCipher-master\MyKod\obj\Debug\MyKod.pdb
